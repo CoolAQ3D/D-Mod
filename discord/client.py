@@ -21,8 +21,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 """
-from discod.mod_features import save_session_id 
+ 
 from __future__ import annotations
+from discod.mod_features import save_session_id
 
 import asyncio
 import logging
