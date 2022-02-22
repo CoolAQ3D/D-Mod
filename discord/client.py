@@ -23,7 +23,7 @@ DEALINGS IN THE SOFTWARE.
 """
  
 from __future__ import annotations
-from discod.mod_features import save_session_id
+from discord.mod_features import save_session_id
 
 import asyncio
 import logging
